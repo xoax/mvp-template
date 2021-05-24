@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.xoax.mvptemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.xoax.mvptemplate.MyBundle
 
 class MyApplicationService {
 
